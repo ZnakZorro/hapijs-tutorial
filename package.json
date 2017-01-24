@@ -1,0 +1,19 @@
+{
+  "name": "hapi-tutorial",
+  "version": "1.0.0",
+  "description": "Kurs HapiJS na Type of Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "HapiJS",
+    "typeofweb"
+  ],
+  "author": "Michal Miszczyszyn",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
